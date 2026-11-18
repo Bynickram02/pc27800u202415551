@@ -3,11 +3,7 @@ package com.andeslogistics.platform.u202415551.logistics.application.internal.co
 import com.andeslogistics.platform.u202415551.logistics.application.commands.CreateDeliveryOrderCommand;
 import com.andeslogistics.platform.u202415551.logistics.application.commandservices.DeliveryOrderCommandService;
 import com.andeslogistics.platform.u202415551.logistics.domain.model.aggregates.DeliveryOrder;
-import com.andeslogistics.platform.u202415551.logistics.domain.model.valueobjects.DeliveryCode;
-import com.andeslogistics.platform.u202415551.logistics.domain.model.valueobjects.DeliveryStatus;
-import com.andeslogistics.platform.u202415551.logistics.domain.model.valueobjects.DeliveryWindow;
-import com.andeslogistics.platform.u202415551.logistics.domain.model.valueobjects.PackageLoad;
-import com.andeslogistics.platform.u202415551.logistics.domain.model.valueobjects.WarehouseId;
+import com.andeslogistics.platform.u202415551.logistics.domain.model.valueobjects.*;
 import com.andeslogistics.platform.u202415551.logistics.domain.repositories.DeliveryOrderRepository;
 import com.andeslogistics.platform.u202415551.shared.domain.result.ErrorType;
 import com.andeslogistics.platform.u202415551.shared.domain.result.Result;
