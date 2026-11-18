@@ -13,3 +13,11 @@ REST API to register delivery orders for Andes Logistics.
 
 
 
+## Technologies
+
+- Java 25
+- Spring Boot
+- Spring Data JPA
+- MySQL (schema `andes_logistics`)
+- Lombok
+- OpenAPI with Swagger UI
