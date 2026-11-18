@@ -1,4 +1,4 @@
-package com.andeslogistics.platform.u202415551.jpa;
+package com.andeslogistics.platform.u202415551.shared.infrastructure.persistence.jpa;
 
 import jakarta.persistence.*;
 import lombok.Getter;

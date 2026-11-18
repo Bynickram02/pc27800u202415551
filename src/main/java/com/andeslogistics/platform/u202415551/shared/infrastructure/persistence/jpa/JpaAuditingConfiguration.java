@@ -1,4 +1,4 @@
-package com.andeslogistics.platform.u202415551.jpa;
+package com.andeslogistics.platform.u202415551.shared.infrastructure.persistence.jpa;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
